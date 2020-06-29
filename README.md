@@ -16,8 +16,8 @@ In total the dataset has 9 columns, the last column being the outcome.
 * Improving results using ensemble methods.
 * Finalize and save the model ready for future use.
 
- ## About my program 
- My program correctly classifies (accuracy of 96%) the flowers into 3 different types.
+## About my program 
+I've selected Logistic Regression algorithm to work on the data.
  
 ## Technology Stack
 ##### Languages :-
